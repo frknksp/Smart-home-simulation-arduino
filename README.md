@@ -1,7 +1,9 @@
 # Smart-home-simulation-arduino
-Bu arduino kodu Yangın alarmı, Hareket algılayan ışık sistemi, Dijital termometre,Kilit sistemi arduino kodlarını içermektedir.<br />
+Bu arduino projesi yangın alarmı, hareket algılayan ışık sistemi, dijital termometre, kilit sistemi arduino kodlarını içermektedir.<br />
 Proteus devre tasarımı ProteusProje klasöründe yer almaktadır.<br />
+Arduino kodu ProjeKodu.ino da yer almaktadır.<br />
 <br />
-This arduino code includes Fire alarm, Motion detecting light system, Digital thermometer, Lock system arduino codes.<br />
+This arduino project includes fire alarm, motion detecting light system, digital thermometer, lock system arduino codes.<br />
 The Proteus circuit design is located in the ProteusProject folder.<br />
+Arduino code is available in ProjeKodu.ino.<br />
 ![alt text](simss.png)
