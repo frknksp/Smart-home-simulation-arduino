@@ -6,4 +6,5 @@ Arduino kodu ProjeKodu.ino da yer almaktadır.<br />
 This arduino project includes fire alarm, motion detecting light system, digital thermometer, lock system arduino codes.<br />
 The Proteus circuit design is located in the ProteusProject folder.<br />
 Arduino code is available in ProjeKodu.ino.<br />
+<br />
 ![alt text](simss.png)
